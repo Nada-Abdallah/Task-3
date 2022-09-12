@@ -1,0 +1,26 @@
+Platform : typically refers to a hardware/operating system combination, like an Intel x86 machine running Windows, or an Amazon Fire tablet running Android.
+
+Framework : typically means a collection of pre-written code that is used to simplify and standardize other programs written for one or more platforms, like Cocoa on a Macintosh platform, or Java Swing on various platforms (a attempt at “write-once, run-anywhere” code).
+
+Library : also refers to a collection of pre-written code that makes it easier to write programs in a particular programming language, often limited to a particular domain or use (like statistical processing or 3D 
+
+
+
+
+
+
+
+
+
+
+Platform: A platform is simply the hardware or software for which the piece of software is built. For example, software may be built for a Windows, OS X, Android, iOS, XBOX One, PS4, etc. 
+These are all platforms. Since different platforms have different requirements and interface differently to the software, the code you write may not run on all platforms and it is important to know which platforms you are building for.
+
+Library: A library refers to code that provides functions that you can call from your own code to deal with common tasks. 
+For example a math library will provide you with common mathematical functionality such as trigonometric or logarithmic functions. 
+Programming languages usually have libraries for all sorts of tasks such as data processing, plotting of graphs, text parsing, etc. Once included, libraries save you the trouble of writing all those functions yourself.
+
+Framework: A framework is a generic structure that provides a skeleton architecture with which specific software can be implemented. 
+The abstraction allows for common design patterns to be easily reused while still allowing the specific details to be left to the developers. 
+Reusing common design patterns means having the general structure for solving similar sorts of problems. For example the Java Swing Framework provides the functionality and structure for Java GUI programming; it can be used for whatever GUI programming you may need to do. 
+Another example is the Model-View-Controller Framework that describes in very abstract terms the three main parts of a common web application. The framework may be manifested as functions and classes that necessarily need to be implemented such as the run() method in Java Swing, requiring the user to conform with the design pattern that the framework is all about.

@@ -1,0 +1,39 @@
+Types:
+
+1-Single inheritance.
+
+When a Derived Class to inherit properties and behavior from a single Base Class , it is called as single inheritance.
+
+
+
+2-Multi-level inheritance.
+
+A derived class is created from another derived class is called Multi Level Inheritance .
+
+
+
+3-Multiple inheritance.
+
+Multiple inheritances allows programmers to create classes that combine aspects of multiple classes and their corresponding hierarchies.
+In .Net Framework, the classes are only allowed to inherit from a single parent class, which is called single inheritance
+
+
+
+Multipath inheritance.
+
+Multiple inheritance is a method of inheritance in which one derived class can inherit properties of base class in different paths. 
+This inheritance is not supported in .NET Languages such as C#.
+
+
+
+
+
+Hierarchical Inheritance.
+
+More than one derived classes are created from a single base class, is called Hierarchical Inheritance .
+
+
+
+Hybrid Inheritance.
+
+Any combination of above three inheritance (single, hierarchical and multi level) is called as hybrid inheritance .

@@ -1,0 +1,6 @@
+
+Step 1: Open your web browser and type in the IP address of your router.
+Step 2: Log in to your router's settings.
+Step 3: Find the website blocking tool in your router's settings.
+Step 4: Enter the websites that you want to block.
+Step 5: Save your changes and restart your router.
